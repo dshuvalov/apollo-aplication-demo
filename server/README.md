@@ -1,3 +1,3 @@
-# Catstronauts - server
+# Catstronauts - client
 
-The starting point of the `server` code after completing the Odyssey Lift-off IV course.
+This is the server part of Catstronauts app and the final solution after completing Odyssey Lift-off courses.
